@@ -15,9 +15,10 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Teaching and Outreach: "teaching_and_outreach"
+#Resources:
+#`    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#- Learn markdown: "https://www.markdowntutorial.com/"
 
 # --- Logo --- #
 
