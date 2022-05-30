@@ -15,7 +15,7 @@ author: Matthew Sargent
 
 navbar-links:
   About Me: "aboutme"
-  Research "research"
+  Research: "research"
   Teaching and Outreach: "teaching_and_outreach"
 #Resources:
 #`    - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -25,7 +25,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/face.jpeg"
+avatar: "assets/img/face.jpeg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
