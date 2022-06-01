@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Your Name / Site Title"
+title                    : "Matthew Sargent"
 title_separator          : "-"
 name                     : &name "Matthew Sargent"
 description              : &description "This is the description"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Matthew Sargent"
-  avatar           : "profile.png"
+  avatar           : "face.png"
   bio              : "CS PhD Student at UCL"
   location         : "London"
   employer         :
@@ -179,9 +179,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
