@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+[CV](http://mjsargent.github.io/files/MJS_cv.pdf')
 
-Education
+#Education
 ======
-* PhD in Computer Science, University College London, 2019-present
-* MEng in Biomedical Engineering (First Class Honours), Imperial College London, 2015-2019
+#* PhD in Computer Science, University College London, 2019-present
+#* MEng in Biomedical Engineering (First Class Honours), Imperial College London, 2015-2019
