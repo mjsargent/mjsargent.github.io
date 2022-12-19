@@ -3,7 +3,7 @@ title: "Representing Repeated Structure in Reinforcement Learning with Symmetric
 collection: publications
 #permalink: /publication/2009-10-01-paper-title-number-1
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2022
+date: 2022-12-03
 venue: 'Workshop on Symmetry and Geometry in Neural Representations, NeurIPS 2022'
 #spaperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
@@ -14,7 +14,7 @@ title: "Temporally Extended Successor Representations"
 collection: publications
 #permalink: /publication/2009-10-01-paper-title-number-1
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2022
+date: 2022-06-08
 venue: 'The Multi-disciplinary Conference on Reinforcement Learning and Decision Making'
 #spaperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
@@ -26,7 +26,7 @@ title: "Monitoring of Breathing Rate in Anesthetised Mice by Piezoelectric-Trans
 collection: publications
 #permalink: /publication/2009-10-01-paper-title-number-1
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2019
+date: 2019-09-05
 venue: 'BioMedEng19'
 #spaperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
