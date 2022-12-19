@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-<embed src="https://mjsargent.github.io/files/MJS_cv.pdf" type="application/pdf"/>
+<object data="https://mjsargent.github.io/files/MJS_cv.pdf" width="1000" height="1000" type="application/pdf"></object>
 
